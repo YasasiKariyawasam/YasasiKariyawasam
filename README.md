@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **EcoGrow-A mobile application for plant management system**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **react, java, C++**
 
