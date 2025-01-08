@@ -3,9 +3,9 @@
   Passionate software engineering student focused on full-stack development, creating scalable and user-centric solutions. Skilled in both web and mobile app development, with a drive to innovate and solve real-world problems. Always exploring new tools and technologies.
 </h3>
 
-- 🔭 I’m currently working on **EcoPro-A mobile application for plant management system**
+- 🔭 I’m currently working on **EcoGrow-A mobile application for plant management system**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **react, java, C++**
 
